@@ -79,6 +79,7 @@ function App() {
       <div className="mermaid">{merge}</div>
       <div className="mermaid">{squash}</div>
       <div className="mermaid">{rebase}</div>
+      <div className="mermaid">{tdGraph}</div>
     </>
   );
 }
